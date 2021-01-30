@@ -35,6 +35,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-darwin-19
 
 DEPENDENCIES
   css_parser
@@ -44,4 +45,4 @@ DEPENDENCIES
   w3c_validators
 
 BUNDLED WITH
-   2.0.1
+   2.2.2
